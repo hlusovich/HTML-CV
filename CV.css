@@ -532,11 +532,9 @@ nav > a:hover {
     .intro {
         display: flex;
         flex-flow: column;
+        margin-top: 150px;
     }
 
-    .intro__photo {
-        margin: 100px 0;
-    }
 
     .intro__data {
         font-size: 20px;
@@ -545,6 +543,7 @@ nav > a:hover {
 
     .cv-button {
         font-size: small;
+        margin-bottom: 200px;
     }
 
     .input-group input {
