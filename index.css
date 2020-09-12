@@ -535,6 +535,7 @@ nav > a:hover {
     }
     .header{
         padding: 0 10%;
+        background: white;
     }
 
     .intro {
@@ -560,7 +561,7 @@ nav > a:hover {
         flex-flow: column;
         position: absolute;
         right: 6%;
-        top:80px;
+        top:58px;
         height: 500px;
         align-items: center;
         justify-content: space-between;
