@@ -432,19 +432,20 @@ nav > a:hover {
     align-items: center;
 }
 
-.input-group input {
-    width: 280px;
+.input-group p {
+    text-transform: uppercase;
+    width: 290px;
     height: 40px;
-    padding: 15px;
-    font-weight: 300;
+    padding: 10px!important;
+    font-weight: 500!important;
     background: rgb(249, 249, 255);
-    padding-left: 20px;
-    border-radius: 0px;
+    border-radius: 1px;
     font-size: 14px;
     color: rgb(34, 34, 34);
     line-height: normal !important;
     border: none !important;
     outline: none !important;
+    margin-right: -1px;
 }
 
 .input-group div {
@@ -551,7 +552,7 @@ nav > a:hover {
         margin-bottom: 200px;
     }
 
-    .input-group input {
+    .input-group p {
         width: 100px
     }
     .device{
