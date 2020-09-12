@@ -561,10 +561,13 @@ nav > a:hover {
         position: absolute;
         right: 6%;
         top:80px;
-        height: 300px;
+        height: 500px;
         align-items: center;
         justify-content: space-between;
-        font-size: large;
+        background: white;
+    }
+    .device a{
+        font-size:55px;
     }
 }
 
